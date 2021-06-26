@@ -1,5 +1,4 @@
 my
-first
 poet
-first edit
+first editor
 second edit
